@@ -42,3 +42,7 @@ section {
 .pad {
     padding: 16px;
 }
+
+.bg-purple {
+    background-color: #ce8ce1;
+}
